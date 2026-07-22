@@ -8,7 +8,7 @@ Built by a former franchise operations consultant transitioning into Product Eng
 
 
 ═══════════════════════════════════════════════
-GN1 QUICK AUDIT · Network Performance Report
+  GN1 QUICK AUDIT · Network Performance Report
 ═══════════════════════════════════════════════
 
 Network: GN1 Premium Network

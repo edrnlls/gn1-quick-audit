@@ -6,7 +6,7 @@ Built by a former franchise operations consultant transitioning into Product Eng
 
 ## Demo
 
-
+```text
 ═══════════════════════════════════════════════
   GN1 QUICK AUDIT · Network Performance Report
 ═══════════════════════════════════════════════
@@ -34,6 +34,7 @@ Units at loss: Rio de Janeiro Unit, Belo Horizonte Unit
 Units in warning zone: 1 (São Paulo Unit)
 Recommended immediate action: review operations at Rio de Janeiro Unit, Belo Horizonte Unit
 
+```
 
 ## What it does
 

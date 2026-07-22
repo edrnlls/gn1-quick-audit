@@ -1,17 +1,17 @@
 {
   "name": "gn1-quick-audit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quick operational audit for clinic networks — diagnose units, consolidate metrics, and highlight risks.",
   "main": "index.js",
+  "author": "Eduardo Dornelles",
+  "license": "ISC",
+  "type": "module",
   "scripts": {
-    "check": "tsc --noExit ./scr/index.ts -- module esnext --target esnext --strict",
-    "audit": "tsx ./src/index.ts"
+    "check": "tsc --noEmit ./src/index.ts --module esnext --target esnext --strict",
+    "start": "tsx ./src/index.ts ./data/network.json",
+    "run:audit": "tsx ./src/index.ts"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "Quick operational audit for clinic networks — diagnose units, consolidate metrics, and highlight risks.",
-"author": "Eduardo Dornelles",
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
@@ -19,7 +19,6 @@
       "onFail": "download"
     }
   },
-  "type": "module",
   "devDependencies": {
     "@types/node": "^26.1.1",
     "tsx": "^4.23.1",

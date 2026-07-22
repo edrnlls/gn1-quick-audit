@@ -1,0 +1,60 @@
+{
+    "networkName": "GN1 Premium Network",
+    "reportDate": "2026-07-15",
+    "clinics": [
+      {
+        "name": "Curitiba Unit",
+        "city": "Curitiba",
+        "monthlyRevenue": 90000,
+        "totalCosts": 40000,
+        "activePatients": 300,
+        "isActive": true,
+        "notes": null
+      },
+      {
+        "name": "Porto Alegre Unit",
+        "city": "Porto Alegre",
+        "monthlyRevenue": 80000,
+        "totalCosts": 40000,
+        "activePatients": 250,
+        "isActive": true,
+        "notes": null
+      },
+      {
+        "name": "Camboriú Unit",
+        "city": "Camboriú",
+        "monthlyRevenue": 50000,
+        "totalCosts": 35000,
+        "activePatients": 100,
+        "isActive": true,
+        "notes": null
+      },
+      {
+        "name": "Rio de Janeiro Unit",
+        "city": "Rio de Janeiro",
+        "monthlyRevenue": 30000,
+        "totalCosts": 220000,
+        "activePatients": 70,
+        "isActive": true,
+        "notes": null
+      },
+      {
+        "name": "São Paulo Unit",
+        "city": "São Paulo",
+        "monthlyRevenue": 27000,
+        "totalCosts": 25000,
+        "activePatients": 40,
+        "isActive": true,
+        "notes": "Unidade nova"
+      },
+      {
+        "name": "Belo Horizonte Unit",
+        "city": "Belo Horizonte",
+        "monthlyRevenue": 20000,
+        "totalCosts": 27000,
+        "activePatients": 40,
+        "isActive": true,
+        "notes": null
+      }
+    ]
+  }
